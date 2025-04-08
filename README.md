@@ -1,4 +1,4 @@
-# Analyse de Ventes - Projet Débutant
+# Analyse de Ventes - Projet Simple
 
 ## Description
 Un simple tableau de bord pour visualiser les données de ventes de fruits. Ce projet utilise Python et Streamlit pour créer des visualisations interactives.
